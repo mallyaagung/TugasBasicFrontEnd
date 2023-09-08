@@ -89,7 +89,7 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-git clone https://github.com/wahyuwww/Blanja-Frontend.git
+git clone https://github.com/mallyaagung/Blanja-Frontend.git
 ```
 
 - Go To Folder Repo
